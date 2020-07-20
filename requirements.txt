@@ -49,7 +49,6 @@ pyasn1-modules==0.2.8
 PyAudio==0.2.11
 pycparser==2.19
 PyDispatcher==2.0.5
-pygame==1.9.3
 PyHamcrest==2.0.2
 PyInstaller==3.5
 pyOpenSSL==19.1.0
