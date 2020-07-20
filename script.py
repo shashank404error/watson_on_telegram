@@ -2,6 +2,7 @@
 import logging
 import pdfkit
 
+from telegram import Update
 from telegram.ext import Updater, CommandHandler
 
 # Enable logging
