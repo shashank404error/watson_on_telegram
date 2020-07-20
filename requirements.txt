@@ -18,6 +18,7 @@ decorator==4.4.2
 Eel==0.10.4
 et-xmlfile==1.0.1
 future==0.17.1
+Flask==0.8
 gevent==1.4.0
 gevent-websocket==0.10.1
 greenlet==0.4.15
