@@ -3,6 +3,7 @@ import logging
 import pdfkit
 
 from telegram.ext import Updater, CommandHandler
+from telegram import Update
 
 # Enable logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
