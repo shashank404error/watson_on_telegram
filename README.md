@@ -1,10 +1,6 @@
-# Template for hosting python scripts and applications on Heroku
+# Python script for WATSON telegram bot hosted on Heroku
 
-This is a small example of running your script with
-[Heroku](https://www.heroku.com/). You can run almost any python application
-with any dependencies.
-
-## Getting Started
+## Run your automated script
 
 1. Download or clone this repository
 2. Register on [Heroku](https://www.heroku.com/)
@@ -87,7 +83,7 @@ with any dependencies.
 
 ## Authors
 
-* @michaelkrukov - https://michaelkrukov.ru/
+* @shashank404error - http://shashankprakash.co/
 
 ## Acknowledgments
 
