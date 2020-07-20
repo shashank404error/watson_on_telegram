@@ -53,7 +53,6 @@ PyHamcrest==2.0.2
 PyInstaller==3.5
 pyOpenSSL==19.1.0
 pyparsing==2.4.2
-pypiwin32==223
 python-dateutil==2.7.3
 python-telegram-bot==12.8
 pytz==2018.4
