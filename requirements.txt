@@ -57,7 +57,6 @@ pypiwin32==223
 python-dateutil==2.7.3
 python-telegram-bot==12.8
 pytz==2018.4
-pywin32==223
 pywin32-ctypes==0.2.0
 queuelib==1.5.0
 requests==2.18.4
